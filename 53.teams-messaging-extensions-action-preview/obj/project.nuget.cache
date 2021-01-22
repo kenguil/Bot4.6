@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P9nfaHsP63kOzcXW2Wwy9YJLQIvOqYmKLwmJ3tBITi/+GWQdJP7mwJewxS3SzLnZvP6V5qUMNdGz9wmm8snWxg==",
+  "dgSpecHash": "0s7CIVk9X2KDH7Ji8+QI2KKtlwMLH/8FVV+3burpuvr0cC3+WEriyMEFp0Mrtn4Lmd67Yd1rZLIINV31zG/YYQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\53.teams-messaging-extensions-action-preview\\TeamsMessagingExtensionsActionPreview.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\53.teams-messaging-extensions-action-preview\\TeamsMessagingExtensionsActionPreview.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\adaptivecards\\1.0.0\\adaptivecards.1.0.0.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",

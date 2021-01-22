@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\15.handling-attachments\\HandlingAttachmentsBot.csproj": {}
+    "D:\\Programming\\Git\\Bot4.6\\15.handling-attachments\\HandlingAttachmentsBot.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\15.handling-attachments\\HandlingAttachmentsBot.csproj": {
+    "D:\\Programming\\Git\\Bot4.6\\15.handling-attachments\\HandlingAttachmentsBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\15.handling-attachments\\HandlingAttachmentsBot.csproj",
+        "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\15.handling-attachments\\HandlingAttachmentsBot.csproj",
         "projectName": "HandlingAttachmentsBot",
-        "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\15.handling-attachments\\HandlingAttachmentsBot.csproj",
+        "projectPath": "D:\\Programming\\Git\\Bot4.6\\15.handling-attachments\\HandlingAttachmentsBot.csproj",
         "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\15.handling-attachments\\obj\\",
+        "outputPath": "D:\\Programming\\Git\\Bot4.6\\15.handling-attachments\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

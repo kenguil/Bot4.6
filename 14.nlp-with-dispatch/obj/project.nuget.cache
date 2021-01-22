@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KixEZEBnbQDvjSP8gsJj8g0fqDBJGVc9I5E89i0Cu+YIPSNq2Q580feZRGivZccx7dEUYk11/fxzsRjcIDdvvg==",
+  "dgSpecHash": "7GetnlU6Qlsq2CXHX7NWNQCE4TzyvoPT4PFB99ctk8niwhX4xxGHt2N11tk6iYi0R+ToClCzJZ+7LI/xD6NyLw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\NLP-With-Dispatch-Bot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\14.nlp-with-dispatch\\NLP-With-Dispatch-Bot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\adaptiveexpressions\\4.11.1\\adaptiveexpressions.4.11.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\antlr4.runtime.standard\\4.8.0\\antlr4.runtime.standard.4.8.0.nupkg.sha512",

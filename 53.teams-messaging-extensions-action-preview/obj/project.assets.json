@@ -6399,11 +6399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\53.teams-messaging-extensions-action-preview\\TeamsMessagingExtensionsActionPreview.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\53.teams-messaging-extensions-action-preview\\TeamsMessagingExtensionsActionPreview.csproj",
       "projectName": "TeamsMessagingExtensionsActionPreview",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\53.teams-messaging-extensions-action-preview\\TeamsMessagingExtensionsActionPreview.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\53.teams-messaging-extensions-action-preview\\TeamsMessagingExtensionsActionPreview.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\53.teams-messaging-extensions-action-preview\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\53.teams-messaging-extensions-action-preview\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

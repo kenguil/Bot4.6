@@ -6640,11 +6640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\81.skills-skilldialog\\DialogRootBot\\DialogRootBot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\81.skills-skilldialog\\DialogRootBot\\DialogRootBot.csproj",
       "projectName": "Microsoft.BotBuilderSamples.DialogRootBot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\81.skills-skilldialog\\DialogRootBot\\DialogRootBot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\81.skills-skilldialog\\DialogRootBot\\DialogRootBot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\81.skills-skilldialog\\DialogRootBot\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\81.skills-skilldialog\\DialogRootBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

@@ -6371,11 +6371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\16.proactive-messages\\ProactiveBot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\16.proactive-messages\\ProactiveBot.csproj",
       "projectName": "ProactiveBot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\16.proactive-messages\\ProactiveBot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\16.proactive-messages\\ProactiveBot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\16.proactive-messages\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\16.proactive-messages\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

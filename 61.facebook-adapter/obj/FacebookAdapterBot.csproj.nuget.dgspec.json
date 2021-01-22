@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\61.facebook-adapter\\FacebookAdapterBot.csproj": {}
+    "D:\\Programming\\Git\\Bot4.6\\61.facebook-adapter\\FacebookAdapterBot.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\61.facebook-adapter\\FacebookAdapterBot.csproj": {
+    "D:\\Programming\\Git\\Bot4.6\\61.facebook-adapter\\FacebookAdapterBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\61.facebook-adapter\\FacebookAdapterBot.csproj",
+        "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\61.facebook-adapter\\FacebookAdapterBot.csproj",
         "projectName": "FacebookAdapterBot",
-        "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\61.facebook-adapter\\FacebookAdapterBot.csproj",
+        "projectPath": "D:\\Programming\\Git\\Bot4.6\\61.facebook-adapter\\FacebookAdapterBot.csproj",
         "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\61.facebook-adapter\\obj\\",
+        "outputPath": "D:\\Programming\\Git\\Bot4.6\\61.facebook-adapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

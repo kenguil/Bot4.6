@@ -6371,11 +6371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\57.teams-conversation-bot\\TeamsConversationBot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\57.teams-conversation-bot\\TeamsConversationBot.csproj",
       "projectName": "TeamsConversationBot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\57.teams-conversation-bot\\TeamsConversationBot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\57.teams-conversation-bot\\TeamsConversationBot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\57.teams-conversation-bot\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\57.teams-conversation-bot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

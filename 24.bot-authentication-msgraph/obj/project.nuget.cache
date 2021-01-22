@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j0Z++qa74wwqk9LiNb1NND7ITbiFRZbCW6Erx72IwHCbj6cWtb3o2FcOxwMQAjKKnWUrkH1Oz71dQAxEwRF1mw==",
+  "dgSpecHash": "+wdZiIBFbRTpfoJAvS+9oict5YtcLOEYPhK+7FMmm+9BhumicVq/eHd7DEzfVvnQUSUTmEwc3MZO//3WGi0fbw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\24.bot-authentication-msgraph\\BotAuthenticationMSGraph.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\24.bot-authentication-msgraph\\BotAuthenticationMSGraph.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

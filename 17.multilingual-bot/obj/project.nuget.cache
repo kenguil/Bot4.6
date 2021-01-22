@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R2I91q3yYfuArhwwInttLpNBp1YJMrAAvU9kAjov6Qa4UTTgFlKE3cgThUKuyg58rjkFrfoP2XfFUVA2ZGR99A==",
+  "dgSpecHash": "3yaX5QFyGgsT5BNWga5X/C8w8wc6ix9P8ijiYXcC7Xp7jaCtOscka8YCV5RyKPG7/5T6JiCBnwhgsbO0sTfQkQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\17.multilingual-bot\\MultiLingualBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\17.multilingual-bot\\MultiLingualBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.applicationinsights\\2.8.1\\microsoft.applicationinsights.2.8.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.applicationinsights.aspnetcore\\2.5.1\\microsoft.applicationinsights.aspnetcore.2.5.1.nupkg.sha512",

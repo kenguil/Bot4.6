@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AazMSyHD2ZgiInedkFPY4LK2aR3LG31axm6W214wps/IgoiASy5/0825Xnvd8nHRTWbX/3Y8vRsCAZMI3vm+bA==",
+  "dgSpecHash": "wTLny537rspXx+GOWUyOHhpWnpZ4d+jyAhMQ7yihqeW0/AVPCOYCJoMfflyVxKPdnlhkIRiGuDg2QC2lB7u8/Q==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\81.skills-skilldialog\\DialogRootBot\\DialogRootBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\81.skills-skilldialog\\DialogRootBot\\DialogRootBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.0\\microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",

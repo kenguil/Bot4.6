@@ -8808,11 +8808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\13.core-bot.tests\\CoreBot.Tests.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\13.core-bot.tests\\CoreBot.Tests.csproj",
       "projectName": "CoreBot.Tests",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\13.core-bot.tests\\CoreBot.Tests.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\13.core-bot.tests\\CoreBot.Tests.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\13.core-bot.tests\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\13.core-bot.tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -8833,8 +8833,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\13.core-bot\\CoreBot.csproj": {
-              "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\13.core-bot\\CoreBot.csproj"
+            "D:\\Programming\\Git\\Bot4.6\\13.core-bot\\CoreBot.csproj": {
+              "projectPath": "D:\\Programming\\Git\\Bot4.6\\13.core-bot\\CoreBot.csproj"
             }
           }
         }

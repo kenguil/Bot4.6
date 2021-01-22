@@ -6627,11 +6627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\44.prompt-users-for-input\\PromptUsersForInput.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\44.prompt-users-for-input\\PromptUsersForInput.csproj",
       "projectName": "PromptUsersForInput",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\44.prompt-users-for-input\\PromptUsersForInput.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\44.prompt-users-for-input\\PromptUsersForInput.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\44.prompt-users-for-input\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\44.prompt-users-for-input\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

@@ -7843,11 +7843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\45.state-management\\StateMangementBot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\45.state-management\\StateMangementBot.csproj",
       "projectName": "StateMangementBot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\45.state-management\\StateMangementBot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\45.state-management\\StateMangementBot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\45.state-management\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\45.state-management\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

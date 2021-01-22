@@ -7438,11 +7438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\13.core-bot\\CoreBot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\13.core-bot\\CoreBot.csproj",
       "projectName": "CoreBot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\13.core-bot\\CoreBot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\13.core-bot\\CoreBot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\13.core-bot\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\13.core-bot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

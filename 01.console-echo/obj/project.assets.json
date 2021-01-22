@@ -6372,11 +6372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\01.console-echo\\Console-EchoBot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\01.console-echo\\Console-EchoBot.csproj",
       "projectName": "Console-EchoBot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\01.console-echo\\Console-EchoBot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\01.console-echo\\Console-EchoBot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\01.console-echo\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\01.console-echo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

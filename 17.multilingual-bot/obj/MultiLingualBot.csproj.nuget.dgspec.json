@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\17.multilingual-bot\\MultiLingualBot.csproj": {}
+    "D:\\Programming\\Git\\Bot4.6\\17.multilingual-bot\\MultiLingualBot.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\17.multilingual-bot\\MultiLingualBot.csproj": {
+    "D:\\Programming\\Git\\Bot4.6\\17.multilingual-bot\\MultiLingualBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\17.multilingual-bot\\MultiLingualBot.csproj",
+        "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\17.multilingual-bot\\MultiLingualBot.csproj",
         "projectName": "MultiLingualBot",
-        "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\17.multilingual-bot\\MultiLingualBot.csproj",
+        "projectPath": "D:\\Programming\\Git\\Bot4.6\\17.multilingual-bot\\MultiLingualBot.csproj",
         "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\17.multilingual-bot\\obj\\",
+        "outputPath": "D:\\Programming\\Git\\Bot4.6\\17.multilingual-bot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

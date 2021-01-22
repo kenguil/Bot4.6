@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sDVaYjiSRENamn41KEd76vpToN6TWINp3QuJCakqazJbbUytZnCVnQQM2tzZfxbCSoIU/mBv4VyxkyFf7pJ3Xw==",
+  "dgSpecHash": "OAPDG20hC3D/PLDdc8LWjpQiteILS+pvJiHM4/1RxjYjaoChkvhxCKENMlQicWgt5sMm0BUATWj3CncoHmH40g==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\62.webex-adapter\\WebexAdapterBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\62.webex-adapter\\WebexAdapterBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+6bHohIc7f+x3kvr3UWaIQnhTUKNGDgsqhRGa0U6fUeQNv0MUfo0dGmxittrcNrU8jg4tb2VnY1QCz17HRYoZA==",
+  "dgSpecHash": "x9E/6N9K+XmxnOCVqHwzLD4Bb/F2KGY/rFzVAGnNizspVAs6RUIaQ8T8OY58e0QaEsq+QAbogsaJutgp4G2T9A==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\49.qnamaker-all-features\\QnABotAllFeatures.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\49.qnamaker-all-features\\QnABotAllFeatures.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\adaptiveexpressions\\4.11.1\\adaptiveexpressions.4.11.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\antlr4.runtime.standard\\4.8.0\\antlr4.runtime.standard.4.8.0.nupkg.sha512",

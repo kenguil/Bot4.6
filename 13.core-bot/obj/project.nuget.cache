@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Em5rAz5NfjZ4ElYPeDjRavXHAWHZpfRHAAtNEVSql0wz/pT2u+pz6ssgmxhR/w/DtJ8hK6+yoqofkX8hVleZQg==",
+  "dgSpecHash": "yxFc42H4KYjjyssk1qyCMNCQxlPBDWH9hzmCNvwDc0/4/lYpKGaOEaJksC7oPXZWAqslarie68QWEBE94keLHA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\13.core-bot\\CoreBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\13.core-bot\\CoreBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\adaptiveexpressions\\4.11.1\\adaptiveexpressions.4.11.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\antlr4.runtime.standard\\4.8.0\\antlr4.runtime.standard.4.8.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vy16Bma4BVCEq2eIhHmnHK85bwplElZht0RAkMbCcCRh1eslmFD2gCl23XQDP4tnM9/qNl84YyixG14LTlBRWA==",
+  "dgSpecHash": "JdYdn/6yqYtx2H5BNq/eVD+KAmguHVfeYPxaNZjcRP2yrVck61/Yh/2/8biWh1mLn92wtbqwJ73nHw4U8uMopA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\46.teams-auth\\TeamsAuth.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\46.teams-auth\\TeamsAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

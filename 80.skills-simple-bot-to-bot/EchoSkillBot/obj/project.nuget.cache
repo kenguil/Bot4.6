@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xdKTUA3DvC+sY3dUqpGURD8M5IL0VeGf/uHdi0Xv+mW4sZRXHlsQ8tJ6/5BqlBPUc/P8qdWGIYJPAXomAf/vBQ==",
+  "dgSpecHash": "ecHRquJX4LFeSUmSrDqhU59nHcuATvqLsbPUY+4xk67Gk47pBjPZgFt6AdinMhGuqx+mdKFvyLCZ7QNVxeM4Cw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\80.skills-simple-bot-to-bot\\EchoSkillBot\\EchoSkillBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\80.skills-simple-bot-to-bot\\EchoSkillBot\\EchoSkillBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

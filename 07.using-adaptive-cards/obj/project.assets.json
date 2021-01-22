@@ -6668,11 +6668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\07.using-adaptive-cards\\AdaptiveCardsBot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\07.using-adaptive-cards\\AdaptiveCardsBot.csproj",
       "projectName": "AdaptiveCardsBot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\07.using-adaptive-cards\\AdaptiveCardsBot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\07.using-adaptive-cards\\AdaptiveCardsBot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\07.using-adaptive-cards\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\07.using-adaptive-cards\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

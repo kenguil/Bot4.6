@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ISRdg35RHmRagmh+8kWfXhdbUqXXgV5g1vtbp0pDqpKngIM4b9y1+rR7oQ8tpEvd5M558Lk0BJu7RPXEtJlrSg==",
+  "dgSpecHash": "zh9BNd9TIGMnK6yagfvPCe7zcURm/GXx3HXzPrtAJfeA4YV302tMh+N/dG0iaqh2RWRfXCmlsy9CNUTFnFlq7Q==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\61.facebook-adapter\\FacebookAdapterBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\61.facebook-adapter\\FacebookAdapterBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

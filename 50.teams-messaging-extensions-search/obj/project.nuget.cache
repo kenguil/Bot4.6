@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2OOQWjUO6BsKDcXxipXxSRwCoElvxSUMT/5AMr9yS43ORMVMw5xEHnSkulbDYOIi/iSpVROti2yc+4XP4UfhSQ==",
+  "dgSpecHash": "nx9gKaxjSMtQp4gxWjqkloC9d33v0oMZqkWugIEIU1nuRF9Ie7GsW74CPu42nPRh/91G6D6GpUTWReKzCvSXzg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\50.teams-messaging-extensions-search\\TeamsMessagingExtensionsSearch.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\50.teams-messaging-extensions-search\\TeamsMessagingExtensionsSearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",
