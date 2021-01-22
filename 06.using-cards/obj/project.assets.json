@@ -6640,11 +6640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\06.using-cards\\CardsBot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\06.using-cards\\CardsBot.csproj",
       "projectName": "CardsBot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\06.using-cards\\CardsBot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\06.using-cards\\CardsBot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\06.using-cards\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\06.using-cards\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\19.custom-dialogs\\Custom-Dialogs.csproj": {}
+    "D:\\Programming\\Git\\Bot4.6\\19.custom-dialogs\\Custom-Dialogs.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\19.custom-dialogs\\Custom-Dialogs.csproj": {
+    "D:\\Programming\\Git\\Bot4.6\\19.custom-dialogs\\Custom-Dialogs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\19.custom-dialogs\\Custom-Dialogs.csproj",
+        "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\19.custom-dialogs\\Custom-Dialogs.csproj",
         "projectName": "Custom-Dialogs",
-        "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\19.custom-dialogs\\Custom-Dialogs.csproj",
+        "projectPath": "D:\\Programming\\Git\\Bot4.6\\19.custom-dialogs\\Custom-Dialogs.csproj",
         "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\19.custom-dialogs\\obj\\",
+        "outputPath": "D:\\Programming\\Git\\Bot4.6\\19.custom-dialogs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

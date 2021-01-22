@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r3DbwOu25rHlxu0Hs2mbGT/VXlqB+Y1oCWAoZkNMV7cMHqOL8dMylanE6fW6QgDYDdnxSt3xY632ZRCYwb1VGQ==",
+  "dgSpecHash": "NPwepEzRkFQk+xvFcflAilsjbU7S+jOyex3ls/EWCplcqe9cKpRb1hv6mq5cMZ1obNx17kEVJr9UCjx1yQ9ePw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\06.using-cards\\CardsBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\06.using-cards\\CardsBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

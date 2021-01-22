@@ -6371,11 +6371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\58.teams-start-new-thread-in-channel\\TeamsStartNewThreadInTeam.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\58.teams-start-new-thread-in-channel\\TeamsStartNewThreadInTeam.csproj",
       "projectName": "TeamsStartNewThreadInTeam",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\58.teams-start-new-thread-in-channel\\TeamsStartNewThreadInTeam.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\58.teams-start-new-thread-in-channel\\TeamsStartNewThreadInTeam.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\58.teams-start-new-thread-in-channel\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\58.teams-start-new-thread-in-channel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

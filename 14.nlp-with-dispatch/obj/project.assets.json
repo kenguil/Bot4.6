@@ -7472,11 +7472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\NLP-With-Dispatch-Bot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\14.nlp-with-dispatch\\NLP-With-Dispatch-Bot.csproj",
       "projectName": "NLP-With-Dispatch-Bot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\NLP-With-Dispatch-Bot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\14.nlp-with-dispatch\\NLP-With-Dispatch-Bot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\14.nlp-with-dispatch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

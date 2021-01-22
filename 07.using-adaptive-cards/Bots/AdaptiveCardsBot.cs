@@ -44,12 +44,38 @@ namespace Microsoft.BotBuilderSamples
         }
         protected override async Task OnMessageActivityAsync(ITurnContext<IMessageActivity> turnContext, CancellationToken cancellationToken)
         {
-            Random r = new Random();
-            var cardAttachment = CreateAdaptiveCardAttachment(_cards[r.Next(_cards.Length)]);
+            var txt = turnContext.Activity.Text;
+            dynamic val = turnContext.Activity.Value;
+            // string mLine = "MultiLine";
 
-            //turnContext.Activity.Attachments = new List<Attachment>() { cardAttachment };
-            await turnContext.SendActivityAsync(MessageFactory.Attachment(cardAttachment), cancellationToken);
-            await turnContext.SendActivityAsync(MessageFactory.Text("Please enter any text to see another card."), cancellationToken);
+            // Check if the value came from the submission of an Adaptive Card
+            if(string.IsNullOrEmpty(txt) && val != null)
+            {
+                await turnContext.SendActivityAsync(MessageFactory.Text("Adaptive Card button caused submission."), cancellationToken);
+            }
+            else if (!string.IsNullOrEmpty(txt))
+            {
+                string txtVal = txt.ToString();
+                if(txtVal.ToLower() == "multiline")
+                {
+                    var cardAttachment = CreateAdaptiveCardAttachment(Path.Combine(".", "Resources", "MultiLineCard.json"));
+
+                    await turnContext.SendActivityAsync(MessageFactory.Attachment(cardAttachment), cancellationToken);
+                }
+                else
+                {
+                    Random r = new Random();
+                    var cardAttachment = CreateAdaptiveCardAttachment(_cards[r.Next(_cards.Length)]);
+
+                    //turnContext.Activity.Attachments = new List<Attachment>() { cardAttachment };
+                    await turnContext.SendActivityAsync(MessageFactory.Attachment(cardAttachment), cancellationToken);
+                    await turnContext.SendActivityAsync(MessageFactory.Text("Please enter any text to see another card."), cancellationToken);
+                }
+            }
+            else
+            {
+                await turnContext.SendActivityAsync(MessageFactory.Text("Somethine went wrong!"), cancellationToken);
+            }
         }
 
         private static async Task SendWelcomeMessageAsync(ITurnContext turnContext, CancellationToken cancellationToken)

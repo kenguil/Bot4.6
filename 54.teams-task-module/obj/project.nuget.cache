@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uFO1CRbjTt6o5OBdIKQp6wQxrmp4MO2SvkTFlk/jPostLEx6r8yBIjTqt3pKchXIhtnlZQxtWFXBEKzQU2novg==",
+  "dgSpecHash": "g/IR3jjdq7fBb8dx75NKYzi5sWtYtINlsiGw/LnR7ZHje8epY3i9URG60iMr2oQNJ0OcZyysLEhIft9Kso/NXQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\54.teams-task-module\\TeamsTaskModule.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\54.teams-task-module\\TeamsTaskModule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\adaptivecards\\1.2.0\\adaptivecards.1.2.0.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

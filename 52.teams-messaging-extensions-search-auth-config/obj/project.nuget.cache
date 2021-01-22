@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CfUtssA4GewJwvDBeIQ2kZ/8nkuYBSdG3+MegG1EOrMw3Wcp20IhqkscyRsrtV9XDhiOcPnjOf8F9y8LQgmY2Q==",
+  "dgSpecHash": "eqXcb0uimiNXnt5QEqED/xgQcFLNyikp5LX6SciPUHebkOmnEPTUxl0W7Yckq00tH4B/exJdgkPPDzi275ShQw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\52.teams-messaging-extensions-search-auth-config\\TeamsMessagingExtensionsSearchAuthConfig.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\52.teams-messaging-extensions-search-auth-config\\TeamsMessagingExtensionsSearchAuthConfig.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\adaptivecards\\2.4.0\\adaptivecards.2.4.0.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",

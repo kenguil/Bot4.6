@@ -7844,11 +7844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\54.teams-task-module\\TeamsTaskModule.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\54.teams-task-module\\TeamsTaskModule.csproj",
       "projectName": "TeamsTaskModule",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\54.teams-task-module\\TeamsTaskModule.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\54.teams-task-module\\TeamsTaskModule.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\54.teams-task-module\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\54.teams-task-module\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

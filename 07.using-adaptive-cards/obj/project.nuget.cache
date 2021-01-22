@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uO+U3gXmCOoG8ayhiIGs+oVR7+GqNqLKfoMBQ1Aoer7Hl1zk8urDZk/w2mWFLk0KBwjemD6b68NUFHRapBvBQg==",
+  "dgSpecHash": "krx/ZOPICk1xdF4zuEvWFequoIWtT4eu3aclJQ+Kq2ssoHSneEPDUUNtoqzbbUy09zjMS0C2dqxazvuQA8rAQw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\07.using-adaptive-cards\\AdaptiveCardsBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\07.using-adaptive-cards\\AdaptiveCardsBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\adaptivecards\\1.0.3\\adaptivecards.1.0.3.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZRhvScnX2xF64AuimTG4huxkOyNPkS3TLlB2DoZQbvn3P05ON+ADOIdHCuGK3XIefX5/Md2I+7tOU6ds2N0YKw==",
+  "dgSpecHash": "gzmRYz8n7f1wUV0H9VZvQSvOxSVXYlE14MyNnYvqAVdAKmqXsJDcx0rOWdDmjXY8VQPVyArF1apz2EFMn2KQbA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\16.proactive-messages\\ProactiveBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\16.proactive-messages\\ProactiveBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

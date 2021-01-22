@@ -7438,11 +7438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\81.skills-skilldialog\\DialogSkillBot\\DialogSkillBot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\81.skills-skilldialog\\DialogSkillBot\\DialogSkillBot.csproj",
       "projectName": "Microsoft.BotBuilderSamples.DialogSkillBot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\81.skills-skilldialog\\DialogSkillBot\\DialogSkillBot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\81.skills-skilldialog\\DialogSkillBot\\DialogSkillBot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\81.skills-skilldialog\\DialogSkillBot\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\81.skills-skilldialog\\DialogSkillBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\05.multi-turn-prompt\\MultiTurnPromptBot.csproj": {}
+    "D:\\Programming\\Git\\Bot4.6\\05.multi-turn-prompt\\MultiTurnPromptBot.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\05.multi-turn-prompt\\MultiTurnPromptBot.csproj": {
+    "D:\\Programming\\Git\\Bot4.6\\05.multi-turn-prompt\\MultiTurnPromptBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\05.multi-turn-prompt\\MultiTurnPromptBot.csproj",
+        "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\05.multi-turn-prompt\\MultiTurnPromptBot.csproj",
         "projectName": "MultiTurnPromptBot",
-        "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\05.multi-turn-prompt\\MultiTurnPromptBot.csproj",
+        "projectPath": "D:\\Programming\\Git\\Bot4.6\\05.multi-turn-prompt\\MultiTurnPromptBot.csproj",
         "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\05.multi-turn-prompt\\obj\\",
+        "outputPath": "D:\\Programming\\Git\\Bot4.6\\05.multi-turn-prompt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

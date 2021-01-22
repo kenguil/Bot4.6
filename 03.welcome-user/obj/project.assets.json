@@ -6371,11 +6371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\03.welcome-user\\WelcomeUser.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\03.welcome-user\\WelcomeUser.csproj",
       "projectName": "WelcomeUser",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\03.welcome-user\\WelcomeUser.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\03.welcome-user\\WelcomeUser.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\03.welcome-user\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\03.welcome-user\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

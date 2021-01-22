@@ -6371,11 +6371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\56.teams-file-upload\\TeamsFileUpload.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\56.teams-file-upload\\TeamsFileUpload.csproj",
       "projectName": "TeamsFileUpload",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\56.teams-file-upload\\TeamsFileUpload.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\56.teams-file-upload\\TeamsFileUpload.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\56.teams-file-upload\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\56.teams-file-upload\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

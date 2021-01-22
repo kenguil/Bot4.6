@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ljbm+A+Xy7NRkYlF10LNLa+0Tp2xgxEM0aGNOgRdSIKJHeywMxsWeGN7Dg3pEvOIHi6nmYE5Czt1HUAD0iDdMQ==",
+  "dgSpecHash": "BdIi+GysGlrnfXnsd2obuR/JEJ+KCJUd0Emnl7biXT4QrFubK7vp75okBD+U6RqpEKnp7wjj3fLTN5YucsYavw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\55.teams-link-unfurling\\TeamsLinkUnfurling.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\55.teams-link-unfurling\\TeamsLinkUnfurling.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

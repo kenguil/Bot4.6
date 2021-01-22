@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tKAo5H6lxTrQi0s5IKtMlV5Xa7xU8oKjcBbCzqilvlUS2qHJ1MmNm1Mz3ig88SgQLajgUsC/a7ZobmLkqXQADw==",
+  "dgSpecHash": "FeHnwkhlIKGdDv0xB0uwDAzfFqMRHJxBa6iV2RjSF0t0yZCgEeN/axTmHI7TMAmuecv1xoYYeigUx5llFQoQRA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\57.teams-conversation-bot\\TeamsConversationBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\57.teams-conversation-bot\\TeamsConversationBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

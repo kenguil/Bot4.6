@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iS1Ed+p1lTFmCZ5LirPt6W8+q5+tHVxIcw3Rd3HggBi8Z/46aVLSLdjfJVZtGNTdrWTD3zPzRoG+XeWD5yuNfw==",
+  "dgSpecHash": "6ZJDBbHJ0S6Ehp3GwGsB/C9NJFaAkZ/TRW99a4fFDtPaaNkKfJ/m/21kKEPYvCnbuwKR8alWnXVs1l+cgEacwg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\63.twilio-adapter\\TwilioAdapterBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\63.twilio-adapter\\TwilioAdapterBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

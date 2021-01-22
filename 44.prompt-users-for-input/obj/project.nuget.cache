@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7kEWN4z/Qi47VjQxv36/O2ukoemds+8XOwKbmk6uO/hIXvR9P0FgfV0P7YRVanExXkm3G++iBMnatX0XZZlgvg==",
+  "dgSpecHash": "XWgGirFB2/A2CvxnvUFK9xrD22eSdhpblobjM+P/AYy8bpERBdCp87W5xxSbZzONt3Zbcv7l+tHlTD4/Aj30Yw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\44.prompt-users-for-input\\PromptUsersForInput.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\44.prompt-users-for-input\\PromptUsersForInput.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

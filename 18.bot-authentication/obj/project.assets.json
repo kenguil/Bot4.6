@@ -6640,11 +6640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\18.bot-authentication\\AuthenticationBot.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\18.bot-authentication\\AuthenticationBot.csproj",
       "projectName": "AuthenticationBot",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\18.bot-authentication\\AuthenticationBot.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\18.bot-authentication\\AuthenticationBot.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\18.bot-authentication\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\18.bot-authentication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

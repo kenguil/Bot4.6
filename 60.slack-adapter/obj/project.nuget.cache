@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1AEbF5H1NaXZIvelYJHTksJplEfVbPduC2p2nN0kLRBAe0f7MY6UOU4Piioh9j0qYfLNPmydYoc1bjvCSpu3lg==",
+  "dgSpecHash": "GZ88j/BsiPmQ3R709rj3wJh0r/qz6y1pyQxUZIg6dU6pIPw18PhVDTxu/IrshbkCS4gm+CUgjknO1mJbD15TYA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\60.slack-adapter\\SlackAdapterBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\60.slack-adapter\\SlackAdapterBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

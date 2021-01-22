@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YVBEEwJEHUTwIasOZEsnmZ51vJ6aQeOvDQXL0oGgy1GFzVZlLhRbYTFaz9hkmfiA7NtbOdKCdNz5r7VunJSyHA==",
+  "dgSpecHash": "b65vqykTQ9mdXzQjGhpgDMM3X1rrfExWE89jDWaomNq4GBBhqrPjmNZ84HNnzF256JNkZdgjfDaqdubYiMeoqQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\45.state-management\\StateMangementBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\45.state-management\\StateMangementBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\azure.core\\1.2.2\\azure.core.1.2.2.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\azure.storage.blobs\\12.4.4\\azure.storage.blobs.12.4.4.nupkg.sha512",

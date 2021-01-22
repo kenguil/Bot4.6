@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\60.slack-adapter\\SlackAdapterBot.csproj": {}
+    "D:\\Programming\\Git\\Bot4.6\\60.slack-adapter\\SlackAdapterBot.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\60.slack-adapter\\SlackAdapterBot.csproj": {
+    "D:\\Programming\\Git\\Bot4.6\\60.slack-adapter\\SlackAdapterBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\60.slack-adapter\\SlackAdapterBot.csproj",
+        "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\60.slack-adapter\\SlackAdapterBot.csproj",
         "projectName": "SlackAdapterBot",
-        "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\60.slack-adapter\\SlackAdapterBot.csproj",
+        "projectPath": "D:\\Programming\\Git\\Bot4.6\\60.slack-adapter\\SlackAdapterBot.csproj",
         "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\60.slack-adapter\\obj\\",
+        "outputPath": "D:\\Programming\\Git\\Bot4.6\\60.slack-adapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

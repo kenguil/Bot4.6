@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MyLvDUCwfhFWEgZDWuWoXAOGfYgeAUtZMZHIE91E8DYxzSvUCNCYuQbKgQuhVKsz1huxmZWIZ5Pu3rITta8d4g==",
+  "dgSpecHash": "3wwwZh5vSXA8D/uc2MYI9302YbPdjgtcRZNyxKETD0sAiDF5+8mjvAQRh0z2H4wy9ke8bCmEIlczTgWpgQQPCg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\42.scaleout\\ScaleoutBot.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\42.scaleout\\ScaleoutBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

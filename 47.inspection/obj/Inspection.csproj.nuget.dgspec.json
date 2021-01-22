@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\47.inspection\\Inspection.csproj": {}
+    "D:\\Programming\\Git\\Bot4.6\\47.inspection\\Inspection.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\47.inspection\\Inspection.csproj": {
+    "D:\\Programming\\Git\\Bot4.6\\47.inspection\\Inspection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\47.inspection\\Inspection.csproj",
+        "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\47.inspection\\Inspection.csproj",
         "projectName": "Inspection",
-        "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\47.inspection\\Inspection.csproj",
+        "projectPath": "D:\\Programming\\Git\\Bot4.6\\47.inspection\\Inspection.csproj",
         "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\47.inspection\\obj\\",
+        "outputPath": "D:\\Programming\\Git\\Bot4.6\\47.inspection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

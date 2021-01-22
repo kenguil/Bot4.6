@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NHP6lTHw3pHLMszielZFxNtLkBjvos8IQLDEHGCqeh1J3xpnbEKrnIqj14tZN0GB1bF9SqMW97XfB/C5SJUrbA==",
+  "dgSpecHash": "5zbteQn5M7/dX/HRiGo7tTnkzj71u69mgsFphMGTxLmLD5YYr9NVW8rs3TwAhyVY7Qk0RwK7eeyz60JowSKjUA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\21.corebot-app-insights\\CoreBot-App-Insights.csproj",
+  "projectFilePath": "D:\\Programming\\Git\\Bot4.6\\21.corebot-app-insights\\CoreBot-App-Insights.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\adaptiveexpressions\\4.11.1\\adaptiveexpressions.4.11.1.nupkg.sha512",
     "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\antlr4.runtime.standard\\4.8.0\\antlr4.runtime.standard.4.8.0.nupkg.sha512",

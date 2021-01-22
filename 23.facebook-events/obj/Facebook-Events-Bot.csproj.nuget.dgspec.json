@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\23.facebook-events\\Facebook-Events-Bot.csproj": {}
+    "D:\\Programming\\Git\\Bot4.6\\23.facebook-events\\Facebook-Events-Bot.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\23.facebook-events\\Facebook-Events-Bot.csproj": {
+    "D:\\Programming\\Git\\Bot4.6\\23.facebook-events\\Facebook-Events-Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\23.facebook-events\\Facebook-Events-Bot.csproj",
+        "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\23.facebook-events\\Facebook-Events-Bot.csproj",
         "projectName": "Facebook-Events-Bot",
-        "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\23.facebook-events\\Facebook-Events-Bot.csproj",
+        "projectPath": "D:\\Programming\\Git\\Bot4.6\\23.facebook-events\\Facebook-Events-Bot.csproj",
         "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\23.facebook-events\\obj\\",
+        "outputPath": "D:\\Programming\\Git\\Bot4.6\\23.facebook-events\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

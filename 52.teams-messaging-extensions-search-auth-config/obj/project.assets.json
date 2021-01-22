@@ -6498,11 +6498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\52.teams-messaging-extensions-search-auth-config\\TeamsMessagingExtensionsSearchAuthConfig.csproj",
+      "projectUniqueName": "D:\\Programming\\Git\\Bot4.6\\52.teams-messaging-extensions-search-auth-config\\TeamsMessagingExtensionsSearchAuthConfig.csproj",
       "projectName": "TeamsMessagingExtensionsSearchAuthConfig",
-      "projectPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\52.teams-messaging-extensions-search-auth-config\\TeamsMessagingExtensionsSearchAuthConfig.csproj",
+      "projectPath": "D:\\Programming\\Git\\Bot4.6\\52.teams-messaging-extensions-search-auth-config\\TeamsMessagingExtensionsSearchAuthConfig.csproj",
       "packagesPath": "C:\\Users\\kenguil.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\52.teams-messaging-extensions-search-auth-config\\obj\\",
+      "outputPath": "D:\\Programming\\Git\\Bot4.6\\52.teams-messaging-extensions-search-auth-config\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
